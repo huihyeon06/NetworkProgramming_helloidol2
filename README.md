@@ -26,3 +26,5 @@
       1. R : CharacterListView
    4. templates/먼작귀/
       1. character_list.html
+   5. urls
+      1. 먼작귀 : character_list
